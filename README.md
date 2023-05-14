@@ -1,2 +1,2 @@
-# portfolio
-My own portfolio developed using ReactJS and TypeScript
+# Portfolio
+My own portfolio developed using ReactJS
